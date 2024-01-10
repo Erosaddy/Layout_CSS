@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Layout_CSS (Layout_CSS main)">
+        <wb-resource deploy-path="/" source-path="/public"/>
+        <property name="context-root" value="Layout_CSS_(Layout_CSS_main)"/>
+    </wb-module>
+</project-modules>
